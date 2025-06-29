@@ -19,6 +19,10 @@ This project analyzes historical cryptocurrency data and builds forecasting mode
 ![Top 4 Excluding BTC](top4exbtc.png)  
 *Log closing price trends (BTC excluded for scale comparison)*
 
+## Candlestick Analysis
+### Bitcoin 6-Month Candlestick Chart (jan - june 2023)
+![BTC Monthly Candlestick](candlestick.png)
+
 ### 3. Market Capitalization Analysis
 ![Top 5 Market Cap](top5.png)  
 *Top 5 cryptocurrencies by market capitalization (2014-2024)*
